@@ -1,13 +1,16 @@
 # 2020 Critical Mass Internship
 
 ## Steven Chen
-### [Portfolio](http://www.difeichen.ca)
+### [My Portfolio](http://www.difeichen.ca)
 
 
 ### Work / Project Examples
 **FAKE INTERVIEW**
+
 (Build with React.JS, Firebase, SCSS, HTML)
+
 An interactive web game built with React.JS, you will be given a chance to interview the President Of the United State, prepare your interview questions and see Trump’s hilarious real-life quotes from Firebase database.
+
 [Live](https://s7illen.github.io/Steven-Chen-Project-5/)
 
 ### Inspiration
