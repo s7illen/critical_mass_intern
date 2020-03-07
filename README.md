@@ -1,8 +1,14 @@
 # 2020 Critical Mass Internship
 
-### Work / Project Examples
+## Steven Chen
+### [Portfolio](http://www.difeichen.ca)
 
-Provide up to three examples of work/projects that you've recently participated in and provide detailed information about your role and contributions to the project.
+
+### Work / Project Examples
+**FAKE INTERVIEW**
+(Build with React.JS, Firebase, SCSS, HTML)
+An interactive web game built with React.JS, you will be given a chance to interview the President Of the United State, prepare your interview questions and see Trump’s hilarious real-life quotes from Firebase database.
+[Live](https://s7illen.github.io/Steven-Chen-Project-5/)
 
 ### Inspiration
 
@@ -12,6 +18,5 @@ Provide up to three examples of work that has recently inspired you from a techn
 
 If you were given the time and resources to build/learn anything you wanted during your internship, where would you choose to focus your efforts? Provide a brief description of how you would spend your time.
 
-### Code Challenge
-
-Please fork the following CodeSandbox project, follow the instructions provided in the README.md file in the project, and do your best to complete the challenge. When you are finished, provide a link to your solution in your README.md file of your GitHub repository. Be prepared to walk through your solution and explain the rationale behind your solution.
+### Code Challenge Link
+https://codesandbox.io/s/2020-internship-exercise-menu-mnvq6
